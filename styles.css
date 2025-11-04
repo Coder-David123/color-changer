@@ -7,4 +7,10 @@ button {
     margin-top: 300px;
     background-color: black;
     color: white;
+    border: none;
+    padding: 30px;
+}
+
+button :hover {
+    background-color: rgb(red, green, blue);
 }
